@@ -4,9 +4,9 @@
 </h1>
 Projects developed using Angular.js based on Alura's courses.
 
-<h1>
+<h2>
   What is Angular ?
-</h1>
+</h2>
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
