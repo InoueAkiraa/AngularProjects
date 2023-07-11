@@ -12,4 +12,4 @@ Projects developed using Angular.js based on Alura's courses.
 - It is a front-end framework created to develop single page applications "SPAs".
 
 <h3> How is your structure ? </h3>
-- Sua estrutura é baseada em componentes, com capacidade para criar aplicativos web escaláveis, além de fornecer uma coleção de bibliotecas integradas.
+- Its framework is component-based, with the ability to build scalable web applications, as well as providing a collection of integrated libraries.
