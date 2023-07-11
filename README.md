@@ -1,7 +1,10 @@
 # AngularProjects
 Projects developed using Angular.js based on Alura's courses.
 
-<h1>What is angular ?</h1> 
+<h1>
+  <img src="nome-do-arquivo-da-imagem.extensao" alt="Angular.js Logo" width="50" height="50">
+  AngularProjects
+</h1>
 
 ![Angular.js Logo](AngularJS-Shield-medium.png)
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
