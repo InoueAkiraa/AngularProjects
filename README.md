@@ -2,7 +2,7 @@
 Projects developed using Angular.js based on Alura's courses.
 
 <h1>
-  <img src="nome-do-arquivo-da-imagem.extensao" alt="Angular.js Logo" width="50" height="50">
+  <img src="AngularJS-Shield-medium.png" alt="Angular.js Logo" width="50" height="50">
   AngularProjects
 </h1>
 
