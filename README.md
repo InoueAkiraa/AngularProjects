@@ -2,7 +2,7 @@
 Projects developed using Angular.js based on Alura's courses.
 
 <h1>What is angular ?</h1> 
-<img src="C:\Users\akira\Documents\GitHub\AngularProjects\AngularJS-Shield-medium.png" />
+
 ![Angular.js Logo](C:\Users\akira\Documents\GitHub\AngularProjects\AngularJS-Shield-medium.png)
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
