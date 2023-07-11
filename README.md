@@ -14,4 +14,4 @@ Projects developed using Angular.js based on Alura's courses.
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
-- `Funcionalidade 1` `Cadastro de Autores`: It is a front-end framework created to develop single page applications "SPAs".
+- It is a front-end framework created to develop single page applications "SPAs".
