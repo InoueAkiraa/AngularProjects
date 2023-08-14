@@ -1,0 +1,15 @@
+<div class="pensamento {{anotacao.modelo}} ff-roboto-mono pensamento-p" [ngClass]="larguraAnotacao()">
+  <img src="../../../../assets/imagens/{{anotacao.modelo}}.png" alt="aspas coloridas">
+  <p class="conteudo">{{anotacao.conteudo}}</p>
+  <p class="autoria"><b>{{anotacao.autoria}}</b></p>
+
+  <div class="acoes">
+    <button class="botao-editar" routerLink="/anotacoes/editarAnotacao/{{anotacao.id}}">
+      <img src="../../../../assets/imagens/icone-editar.png" alt="Ícone de editar">
+    </button>
+
+    <button class="botao-excluir" routerLink="/anotacoes/excluirAnotacao/{{anotacao.id}}">
+      <img src="../../../../assets/imagens/icone-excluir.png" alt="Ícone de excluir">
+    </button>
+  </div>
+</div>
